@@ -4,11 +4,14 @@ I am a self taught entry level programer.
 ## What I do
  - Bukkit plugins
  - Discord Bots
+ - Twitch Bots
 ### Languages
 
   - Java
   - JS
   - C++
+  - php
+  - C#
 
 ### Where to find me
 * [Discord][discord]
