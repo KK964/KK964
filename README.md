@@ -2,16 +2,27 @@
 
 I am a self taught entry level programer.
 
+[![KK's github stats](https://github-readme-stats.vercel.app/api?username=KK964)](https://github.com/anuraghazra/github-readme-stats)
+
 ## What I do
 
 - Bukkit plugins
 - Discord Bots
+- Twitch Bots
+
+## Some of my Projects
+
+- [Art Hangout][arthangout]
 
 ### Languages
 
 - Java
 - JS
 - C++
+- php
+- html
+- mysql
+- C#
 
 ### Where to find me
 
@@ -22,5 +33,4 @@ I am a self taught entry level programer.
   [tweet]: https://twitter.com/KK964gaming
   [discord]: https://discord.gg/ZyPRRkk
   [yt]: https://www.youtube.com/channel/UCEP4D_Nrjgw8xbFOwsLgDsQ
-
-[![KK's github stats](https://github-readme-stats.vercel.app/api?username=KK964)](https://github.com/anuraghazra/github-readme-stats)
+  [arthangout]: https://arthangout.art/
