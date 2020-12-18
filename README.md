@@ -31,8 +31,10 @@ I am a self taught entry level programer.
 - [Discord][discord]
 - [public repositorys][github]
 
-  [github]: https://github.com/KK964?tab=repositories
-  [tweet]: https://twitter.com/KK964gaming
-  [discord]: https://discord.gg/ZyPRRkk
-  [yt]: https://www.youtube.com/channel/UCEP4D_Nrjgw8xbFOwsLgDsQ
-  [arthangout]: https://arthangout.art/
+<iframe src="https://discord.com/widget?id=761417395285131284&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+[github]: https://github.com/KK964?tab=repositories
+[tweet]: https://twitter.com/KK964gaming
+[discord]: https://discord.gg/ZyPRRkk
+[yt]: https://www.youtube.com/channel/UCEP4D_Nrjgw8xbFOwsLgDsQ
+[arthangout]: https://arthangout.art/
